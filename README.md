@@ -16,8 +16,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java   2 hrs 13 mins   ████████████████████████▓   98.93 % 
-YAML   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Java   1 hr 23 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

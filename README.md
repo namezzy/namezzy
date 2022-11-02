@@ -15,10 +15,16 @@
 #### Coding status last week ⌨️
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   10 mins         ███████████████▓░░░░░░░░░   62.85 % 
-HTML         6 mins          █████████▒░░░░░░░░░░░░░░░   37.15 % 
+HTML                       9 hrs 50 mins   ████████████████████▒░░░░   80.93 %
+JavaScript                 1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Docker                     26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Java                       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+TypeScript                 12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+GitIgnore file             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br/>

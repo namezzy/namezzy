@@ -8,9 +8,9 @@
 <br/>
 
 - 🍻 Work at Beijing 
-- ⚡  Java/Vue
-- ✍️  Troubleshoting expert
-- ♟  Devops/Power Platform 
+- ⚡ Java Vue
+- ✍️ Troubleshoting expert
+- ♟  Microsoft Certified: DevOps Engineer Expert/ Azure Solutions Architect Expert/ Azure Administrator Associate
 
 #### Coding status last week ⌨️
 

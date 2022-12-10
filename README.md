@@ -17,10 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                  10 hrs 17 mins  █████████████████████████   99.86 %
-prototext             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Sublime Text Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Other                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java                  7 hrs 7 mins    █████████████████████████   99.94 %
+Sublime Text Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

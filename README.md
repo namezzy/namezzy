@@ -17,8 +17,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                  7 hrs 7 mins    █████████████████████████   99.94 %
-Sublime Text Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Java                  5 hrs 21 mins   █████████████████████████   99.92 %
+Sublime Text Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 JavaScript            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 

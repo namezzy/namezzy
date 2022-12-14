@@ -17,9 +17,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                  4 hrs 40 mins   █████████████████████████   99.90 %
-Sublime Text Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-JavaScript            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java         2 hrs 10 mins   █████████████████████████   99.95 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->

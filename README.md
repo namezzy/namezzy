@@ -17,12 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML                       11 hrs 14 mins  ████████████░░░░░░░░░░░░░   47.54 %
-Java                       4 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-TypeScript                 3 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-Vue.js                     1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Nginx configuration file   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-JSON                       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+HTML                       13 hrs 46 mins  ████████████░░░░░░░░░░░░░   48.02 %
+Vue.js                     4 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Java                       4 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+TypeScript                 3 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+JSON                       31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Nginx configuration file   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->

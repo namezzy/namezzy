@@ -8,7 +8,7 @@
 <br/>
 
 - 🍻 Work at Beijing 
-- ⚡ Java Vue
+- ⚡ Backend Engineer
 - ✍️ Troubleshoting expert
 - ♟  Microsoft Certified: DevOps Engineer Expert/ Azure Solutions Architect Expert/ Azure Administrator Associate
 

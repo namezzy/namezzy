@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <p align="center"> 
-  Visitor count<br/>
+ Monthly site traffic analysis <br/>
   <img src="https://profile-counter.glitch.me/youszoe/count.svg" />
 </p>
 <br/>

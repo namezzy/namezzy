@@ -99,9 +99,9 @@
 </p>
 <br/>
 
-- 🍻 Work at Beijing 
-- ⚡ Backend Engineer
-- ✍️ Troubleshoting expert
+- 🌱 I’m currently learning.
+- ⚡ Focusing on AI
+- ✍️ Troubleshoting 
 - ♟  Microsoft Certified: DevOps Engineer Expert/ Azure Solutions Architect Expert/ Azure Administrator Associate
 
 #### Coding status last week ⌨️

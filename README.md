@@ -4,7 +4,7 @@
 
 <p align="center">
     <a title="My Blog Site" target="_blank" href="https://blog.withlevi.top/">
-        <img src="https://blog.withlevi.top/img/avatar-me.jpg" width="200" height="150" alt="levi-avatar" />
+        <img src="https://blog.withlevi.top/img/avatar-me.jpg" width="150" height="200" alt="levi-avatar" />
     </a>
 </p>
 

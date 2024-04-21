@@ -92,7 +92,7 @@
 </div>
 <br/>
 
-<img src="https://github.com/namezzy/namezzy.github.io/blob/main/img/post-bg-VSCode.jpeg" alt="Hello world">
+<!--<img src="https://github.com/namezzy/namezzy.github.io/blob/main/img/post-bg-VSCode.jpeg" alt="Hello world"> -->
 <p align="center"> 
  Monthly site traffic analysis <br/>
   <img src="https://profile-counter.glitch.me/youszoe/count.svg" />

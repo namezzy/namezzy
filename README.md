@@ -8,20 +8,11 @@
     </a>
 </p>
 
-### 🏆 Profile Trophy
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=blinkfox&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="blinkfox" />
-</p>
-
 ### 🔨 Skills and Tools
 
 <div align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" />
     </a>
     <a href="https://golang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
@@ -100,7 +91,7 @@
     </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/namezzy/namezzy.github.io/blob/main/img/post-bg-VSCode.jpeg" alt="Hello world">
 <p align="center"> 
  Monthly site traffic analysis <br/>
   <img src="https://profile-counter.glitch.me/youszoe/count.svg" />

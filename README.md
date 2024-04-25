@@ -118,6 +118,6 @@ HTML         1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <br/>
-<center><img src="http://ghchart.rshah.org/409ba5/yousazoe" alt="" /></center>
+<!--<center><img src="http://ghchart.rshah.org/409ba5/yousazoe" alt="" /></center>-->
 
 

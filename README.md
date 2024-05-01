@@ -3,7 +3,7 @@
 
 <p align="center">
     <a title="My Blog Site" target="_blank" href="https://blog.withlevi.top/">
-        <img src="https://blog.withlevi.top/img/avatar-me.jpg" width="40" height="40" alt="levi-avatar" />
+        <img src="https://blog.withlevi.top/img/avatar-me.jpg" width="35" height="35" alt="levi-avatar" />
     </a>
 </p>
 

@@ -4,7 +4,6 @@
         <img src="https://blog.withlevi.top/img/avatar-me.jpg" width="35" height="35" alt="levi-avatar" />
     </a>
 </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt=""></a> </p>
 <p>🌱 I’m currently learning <strong> Development Full-Stack</strong>
 <p>⚡ Focusing on AI tools</strong>
 <p>♟  Microsoft Certified: DevOps Engineer Expert && Azure Solutions Architect Expert && Azure Administrator Associate</strong>

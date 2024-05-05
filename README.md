@@ -41,6 +41,22 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <hr width="36%">
+
+#### Coding status last week ⌨️
+
+<!--START_SECTION:waka-->
+
+```txt
+JavaScript    3 hrs 13 mins   ████████████▒░░░░░░░░░░░░   49.76 %
+Other         3 hrs 12 mins   ████████████▒░░░░░░░░░░░░   49.48 %
+CSS           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+```
+
+<!--END_SECTION:waka-->
+
+<br/>
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 <br>

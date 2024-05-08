@@ -1,7 +1,7 @@
-  <h1 align="center">Hi 👋, I'm Levi</h1>
-  <p align="center">
+<h1 style="text-align: center;">Hi 👋, I'm Levi</h1>
+<p style="text-align: center;">
     <a title="My Blog Site" target="_blank" href="https://blog.withlevi.top/">
-        <img src="https://blog.withlevi.top/img/avatar-me.jpg" width="35" height="35" alt="levi-avatar" />
+        <img src="https://blog.withlevi.top/img/avatar-me.jpg" width="35" height="35" alt="levi-avatar" style="display: inline-block; vertical-align: middle;" />
     </a>
 </p>
 <p>🌱 I’m currently learning <strong> Development Full-Stack</strong>

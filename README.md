@@ -65,6 +65,6 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namezzy&show_icons=true&theme=dark&locale=en&layout=compact" alt="namezzy" height="130" style="float: left; margin-right: 10px;">
 <img src="https://github-readme-stats.vercel.app/api?username=namezzy&show_icons=true&theme=dark&locale=en" alt="namezzy" height="130">
-<br><br>
+<br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=namezzy&theme=merko" alt="GitHub Streak" /></a>
 <br><br><br><br><br><br><br><br><br><br>

@@ -43,8 +43,9 @@
 <a target="_blank" href="https://api.iconify.design/logos-hugo.svg" style="display: inline-block;"><img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 <hr width="36%">
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+
 
 #### Coding status last week ⌨️
 

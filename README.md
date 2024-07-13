@@ -64,7 +64,7 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 <h3>My GitHub Stats</h3>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namezzy&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="namezzy" height="130" ></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=namezzy&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="namezzy"  height="130"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namezzy&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="namezzy"  height="130"></p>
 <br><br><br><br><b
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=namezzy&theme=merko" alt="GitHub Streak" /></a>
 <br><br><br><br><br><br><br><br><br><br>

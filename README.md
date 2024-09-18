@@ -51,8 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   5 hrs 17 mins   █████████████████████████   99.45 %
-Astro   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Other   2 hrs 11 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

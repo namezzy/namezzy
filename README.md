@@ -51,7 +51,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 hrs 22 mins   █████████████████████████   100.00 %
+Other   2 hrs 43 mins   █████████████████████████   99.61 %
+MDX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->

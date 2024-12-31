@@ -1,16 +1,9 @@
 <h1 style="text-align: center;">Hi 👋, I'm Levi</h1>
-<p style="text-align: center;">
-    <a title="My Blog Site" target="_blank" href="https://blog.withlevi.top/">
-        <img src="https://blog.withlevi.top/img/avatar-me.jpg" width="35" height="35" alt="levi-avatar" style="display: inline-block; vertical-align: middle;" />
-    </a>
-</p>
 <br>
 <!---<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></p> --->
 <br>
 
 <hr width="36%">
-
-
 #### Coding status last week ⌨️
 
 <!--START_SECTION:waka-->
@@ -21,7 +14,6 @@ Go      0 secs          ░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
 <br/>
 <h3>My GitHub Stats</h3>
 <br>

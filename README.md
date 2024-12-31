@@ -4,7 +4,8 @@
 <br>
 
 <hr width="36%">
-#### Coding status last week ⌨️
+####  Coding status last week ⌨️
+
 
 <!--START_SECTION:waka-->
 

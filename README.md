@@ -6,9 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        6 hrs 47 mins   ████████████████████████▓   98.82 %
-JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other         6 hrs 47 mins   ████████████████████████▓   98.58 %
+JavaScript    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Image (svg)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->

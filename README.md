@@ -6,10 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other         13 hrs 3 mins   ████████████████████████▓   99.26 %
-JavaScript    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Image (svg)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other         15 hrs 36 mins  ████████████████████████▒   97.97 %
+Image (svg)   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+JavaScript    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->

@@ -6,9 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other         15 hrs 36 mins  ████████████████████████▒   97.97 %
-Image (svg)   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-JavaScript    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Other         12 hrs 33 mins  ████████████████████████▒   97.98 %
+Image (svg)   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->

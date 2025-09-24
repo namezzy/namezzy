@@ -6,7 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 hrs 38 mins   █████████████████████████   100.00 %
+Go      2 hrs 6 mins    ████████████▓░░░░░░░░░░░░   50.18 %
+Other   2 hrs 5 mins    ████████████▒░░░░░░░░░░░░   49.82 %
 ```
 
 <!--END_SECTION:waka-->

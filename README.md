@@ -6,8 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Batchfile   8 mins          █████████████▒░░░░░░░░░░░   52.82 %
-Other       7 mins          ███████████▓░░░░░░░░░░░░░   47.18 %
+Other       22 mins         ████████████████░░░░░░░░░   63.96 %
+Batchfile   8 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
+Markdown    3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
 ```
 
 <!--END_SECTION:waka-->

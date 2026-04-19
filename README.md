@@ -6,7 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   52 mins         █████████████████████████   100.00 %
+Other   1 hr 1 min      █████████████████████████   99.99 %
+YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

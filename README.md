@@ -6,10 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        6 hrs 24 mins   ████████████████████▓░░░░   82.34 %
-Markdown     1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-HTML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other      8 hrs 42 mins   ██████████████████████▒░░   89.30 %
+Markdown   1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
 ```
 
 <!--END_SECTION:waka-->

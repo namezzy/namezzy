@@ -6,11 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                15 hrs 15 mins  ██████████████████████▒░░   89.95 %
-Python               1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-Markdown             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-JSON with Comments   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-INI                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other                12 hrs 43 mins  ██████████████████████▒░░   88.92 %
+Python               1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Markdown             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+JSON with Comments   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->

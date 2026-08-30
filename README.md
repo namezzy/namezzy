@@ -6,10 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                12 hrs 43 mins  ██████████████████████▒░░   88.92 %
-Python               1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-Markdown             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-JSON with Comments   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other                13 hrs 21 mins  █████████████████████▒░░░   85.82 %
+Python               1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Markdown             45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+JSON with Comments   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
